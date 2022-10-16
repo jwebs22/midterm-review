@@ -70,9 +70,9 @@ as parameters.  return a count of how many characters the strings share at the s
 ```
 Examples:
 
-stringCompareCounter('cat','cow') => 1 (strings share the same character at index 0)
-stringCompareCounter('count','touch') => 2 (strings share the same characters at indexes 1 and 2)
-stringCompareCounter('well','sell') => 3 (strings share same characters at indexes 1,2, and 3)
+stringCompareCounter('cat','cow') => 1 //(strings share the same character at index 0)
+stringCompareCounter('count','touch') => 2 //(strings share the same characters at indexes 1 and 2)
+stringCompareCounter('well','sell') => 3 //(strings share same characters at indexes 1,2, and 3)
 
 ```
 
